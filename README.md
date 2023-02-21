@@ -11,3 +11,6 @@ As a junior front end developer with some experience in programming, I have a pa
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<b>Contact me</b>
+
+<a href="https://www.linkedin.com/in/digmarjunior/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
